@@ -15,7 +15,9 @@ A lightweight, fully local video management application designed to work with Po
 - 支持自定义tag、星级
 - 支持按tag、星级、演员、系列筛选
 - 支持各种排序
-- 支持中英文切换（菜单栏 → 文件 → 选项）
+- 支持中英文切换（菜单栏 → 文件 → 选项）<br></br>
+Note: Color settings, PotPlayer path, and other options are stored in config.json in the root directory.<br></br>
+注意：选项中的颜色设置和potplayer路径等信息存储在根目录下的config.json
 
 ## 使用
 1. Open the application.
