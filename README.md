@@ -1,5 +1,5 @@
 # Local-video-manager
-A lightweight, fully local video management application designed to work with PotPlayer.<br></br>
+A lightweight, fully local video management windows application designed to work with PotPlayer.<br></br>
 这是一款轻量的纯本地的视频管理应用。需要结合potplayer使用。
 
 ## Features/特征
