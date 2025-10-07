@@ -2,7 +2,7 @@
 A lightweight, fully local video management application designed to work with PotPlayer.<br></br>
 这是一款轻量的纯本地的视频管理应用。需要结合potplayer使用。
 
-## 特征
+## Features/特征
 - Fully offline — manages local videos without any network functionality
 - Convenient browsing and editing of video titles, covers, actors, IDs, series, and years
 - Supports custom tags and star ratings
@@ -19,7 +19,7 @@ A lightweight, fully local video management application designed to work with Po
 Note: Color settings, PotPlayer path, and other options are stored in config.json in the root directory.<br></br>
 注意：选项中的颜色设置和potplayer路径等信息存储在根目录下的config.json
 
-## 使用
+## Usage/使用
 1. Open the application. (either the .py file or the exe in the folder)
 2. Go to Menu → File → Select video directory.
 3. To add covers, create a folder named cover inside the video directory, and name each cover image file the same as its corresponding video file.
