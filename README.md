@@ -19,6 +19,9 @@ A lightweight, fully local video management windows application designed to work
 Note: Color settings, PotPlayer path, and other options are stored in config.json in the root directory.<br></br>
 注意：选项中的颜色设置和potplayer路径等信息存储在根目录下的config.json
 
+## Download/下载
+https://github.com/SKDNG/Local-video-manager/releases
+
 ## Usage/使用
 1. Open the application. (either the .py file or the exe in the folder)
 2. Go to Menu → File → Select video directory.
